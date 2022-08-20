@@ -1,10 +1,10 @@
-#### Paid unpatched viewbot for 25€ !!: https://onlp.sellix.io or in dc server
+#### STEVEN BLADE NEVER DIE
 
 
-<h2 align="center">server: <a href="https://discord.gg/onlp">discord.gg/onlp</a></h2>
+<h2 align="center">FB: <a href="https://web.facebook.com/SmokeyXzt">STEVEN BLADE</a></h2>
 
 <p align="center">
-400 followers / 500 stars = leaked unpatched viewbot 1k/s
+
 </p>
 
  
@@ -39,12 +39,6 @@ https://user-images.githubusercontent.com/98614666/182040527-2c72dd31-1c4a-4e49-
 <p align="center"> 
 <img src="https://cdn.discordapp.com/attachments/979095432682676264/996481048605106186/unknown.png"></img>
 </p>
-
-skids:
-```
-  https://github.com/XNorealsS/tiktokbot-view
-  https://github.com/haphucduy28/1/blob/main/viewtiktok.py
-```
 
 How to run:
 ```
